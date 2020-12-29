@@ -1,6 +1,6 @@
 ## Description
 
-### Simple Library crud App Made with Laravel Framework. Authors - Books (1:M), Books - Customers (1:1). +Validations, filters, text editing.
+#### Simple Library crud App made with Laravel Framework. Authors - Books (1:M), Books - Customers (1:1). +Validations, filters, text editing.
 
 ## Setup
 
